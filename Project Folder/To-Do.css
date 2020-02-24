@@ -72,7 +72,7 @@ ul li.checked::before {
 
 .close:hover {
   background-color: #004A7C;
-  color: white;
+  color: #FAFAFA;
 }
 
 /* Style the header */
@@ -105,7 +105,7 @@ input {
 .addBtn {
   padding: 10px;
   width: 25%;
-  background: #d9d9d9;
+  background: #E8F1F5;
   color: #555;
   float: left;
   text-align: center;
